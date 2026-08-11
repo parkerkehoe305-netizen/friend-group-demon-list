@@ -10,7 +10,7 @@ const levels = [
 	['Shiver','lelelele','azure','56210242'],
 	['Platinum Adventure','lelelele','azure, Cole','5904109'],
 	['The Nightmare','lelelele','azure, Cole','13519'],
-	['The Nightmare','lelelele','azure, Cole','55520'],
+	['THE LIGHTNING ROAD','lelelele','azure, Cole','55520'],
 	
 	
 	
