@@ -1,31 +1,27 @@
 // level info
 const levels = [
-	['EstrofemTransventure','https://youtu.be/rC0bP-kNPNo','Kalavian','120486509'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
-	['Level Name','LEVEL_LINK_HERE','Creator','ID'],
+	['HeLL','lelelele','azure','25706351'],
+	['B','lelelele','azure','34085027'],
+	['Ice Age','lelelele','azure','131182120'],
+	['DeCode','lelelele','azure','2997354'],
+	['X','lelelele','azure','17235008'],
+	['Crazy Bolt','lelelele','azure','413504'],
+	['phjork','lelelele','azure','56587109'],
+	['Shiver','lelelele','azure','56210242'],
+	['Platinum Adventure','lelelele','azure, Cole','5904109'],
+	['The Nightmare','lelelele','azure, Cole','13519'],
+	['The Nightmare','lelelele','azure, Cole','55520'],
+	
+	
+	
 ];
 const tiers = [
-	[0, 'Example Tier 1'],
-	[7, 'Example Tier 2'],
-	[14, 'Example Tier 3']
+	[0, 'INSANELY DIFFICULT'],
+	[3, 'Pretty Difficult'],
+	[10, 'Difficult']
 ];
 const startingScore = 1000;
-const scoreDivisor = 0.03;
+const scoreDivisor = 0.25;
 
 // list generation
 const levelsContainer = document.getElementById('list-levels');
