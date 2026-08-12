@@ -12,9 +12,6 @@ const levels = [
 	['Platinum Adventure','lelelele','azure, Cole','5904109'],
 	['The Nightmare','lelelele','azure, Cole','13519'],
 	['THE LIGHTNING ROAD','lelelele','azure, Cole','55520'],
-	
-	
-	
 ];
 const tiers = [
 	[0, 'INSANELY DIFFICULT'],
