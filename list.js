@@ -5,6 +5,7 @@ const levels = [
 	['Ice Age','lelelele','azure','131182120'],
 	['DeCode','lelelele','azure','2997354'],
 	['X','lelelele','azure','17235008'],
+	['weird','lelelele','azure','76564776'],
 	['Crazy Bolt','lelelele','azure','413504'],
 	['phjork','lelelele','azure','56587109'],
 	['Speed Racer','lelelele','azure','3543219'],
